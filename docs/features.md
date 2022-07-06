@@ -7,7 +7,7 @@ This page is to test some of the features of `mkdocs` and the `material` theme.
 For example the syntax highlighting of code snippets.
 A code snippet looks like this:
 
-```go hl_lines="6"
+```go hl_lines="6" linenums="1"
 package main
 
 import "fmt"
