@@ -14,6 +14,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
+  - footnotes
 
 extra_javascript:
   - javascripts/mathjax.js

@@ -35,3 +35,13 @@ graph LR
   D --> B;
   B ---->|No| E[Yay!];
 ```
+
+## Footnotes
+
+This is a text that has footnotes[^1].
+At the end of the page there will be a footnote providing details to the previous sentence.
+
+[^1]: In this footnote, there is some extra info
+
+Some more text.
+
