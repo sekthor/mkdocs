@@ -23,3 +23,5 @@ extra_javascript:
 
 extra_css:
   - stylesheets/syntax.css
+
+repo_url: https://github.com/sekthor/mkdocs
