@@ -24,4 +24,6 @@ extra_javascript:
 extra_css:
   - stylesheets/syntax.css
 
+# git repo config
 repo_url: https://github.com/sekthor/mkdocs
+edit_uri: blob/main/docs/
